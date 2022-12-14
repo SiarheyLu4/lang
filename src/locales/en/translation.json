@@ -1,0 +1,92 @@
+{
+  "login": "log in",
+  "register": "REGISTER",
+  "email": "E-mail",
+  "password": "Password",
+  "ConfirmPassword": "Confirm password",
+  "firstName": "First name",
+  "financeApp": "Finance App",
+
+  "Confirm logout": "Confirm logout",
+  "OK": "OK",
+  "Cancel": "Cancel",
+
+  "nothing": "There's nothing here!",
+  "return": "Return",
+
+  "addTransaction": "Add Transaction",
+  "cancel": "Cansel",
+  "Choose Category": "Choose Category",
+  "income": "Income",
+  "expenses": "Expenses",
+  "comment": "Comment",
+  "<0>Main expenses</0>": "<0>Main expenses</0>",
+  "<0>Products</0>": "<0>Products</0>",
+  "<0>Car</0>": "<0>Car</0>",
+  "<0>Self care</0>": "<0>Self care</0>",
+  "<0>Child care</0>": "<0>Child care</0>",
+  "<0>Household products</0>": "<0>Household products</0>",
+  "<0>Education</0>": "<0>Education</0>",
+  "<0>Leisure</0>": "<0>Leisure</0>",
+  "<0>Entertainment</0>": "<0>Entertainment</0>",
+  "<0>Help UA Armed Force</0>": "<0>Help UA Armed Force</0>",
+  "<0>Other expenses</0>": "<0>Other expenses</0>",
+
+  "Your balance": "Your balance",
+
+  "Currency": "Currency",
+  "Purchase": "Purchase",
+  "Sale": "Sale",
+  "Currency Not Found!": "Currency Not Found!",
+
+  "Statistics": "Statistics",
+  "Home": "Home",
+
+  "$": "$",
+
+  "No transactions": "No transactions",
+
+  "Date": "Date",
+  "Type": "Type",
+  "Category": "Category",
+  "Comment": "Comment",
+  "Sum": "Sum",
+  "Balance": "Balance",
+
+  "Month": "Month",
+  "Year": "Year",
+  
+  "list_map_header": "<0>Date </0><1>Type </1><2>Category </2><3>Comment </3><4>Sum </4><5>Balance </5>",
+  
+  "No expenses were found in this period.": "No expenses were found in this period.",
+
+  "<0>Enter a valid email</0>": "<0>Enter a valid email</0>",
+  "<0>Email is required</0>": "<0>Email is required</0>",
+  "<0>Password must e at least 6 characters</0>": "<0>Password must e at least 6 characters</0>",
+  "<0>The password must contain no more than 16 characters</0>": "<0>The password must contain no more than 16 characters</0>",
+  "<0>Password is required</0>": "<0>Password is required</0>",
+
+  "<0>It should be long</0>": "<0>It should be long</0>",
+  "<0>Name should be of minimum 2 character length</0>": "<0>Name should be of minimum 2 character length</0>",
+  "<0>Name should be of maximum 12 characters length</0>": "<0>Name should be of maximum 12 characters length</0>",
+  "<0>Name is required</0>": "<0>Name is required</0>",
+  "<0>password contains uppercase, lowercase latin letters,number</0>": "<0>password contains uppercase, lowercase latin letters,number</0>",
+  "<0>The password must be 6 characters long</0>": "<0>The password must be 6 characters long</0>",
+  "<0>Confirm is required</0>": "<0>Confirm is required</0>",
+  "<0>Passwords do not match</0>": "<0>Passwords do not match</0>",
+  "<0>Please enter a valid email</0>": "<0>Please enter a valid email</0>",
+  "<0>Incorrect email</0>": "<0>Incorrect email</0>",
+
+  "<0>Use a strong password</0>": "<0>Use a strong password</0>",
+  "<0>Easy password</0>": "<0>Easy password</0>",
+  "<0>Normal password</0>": "<0>Normal password</0>",
+  "<0>A good password</0>": "<0>A good password</0>",
+  "<0>Safe password!</0>": "<0>Safe password!</0>",
+
+  "img": {
+    "altPageManCart": "A man with a cart of groceries",
+    "altPageManShop": "a man with a shopping cart",
+    "altPageGirl": "a girl with a phone"
+  }
+
+}
